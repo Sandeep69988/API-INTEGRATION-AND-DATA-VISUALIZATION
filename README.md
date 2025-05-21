@@ -24,7 +24,9 @@
 
   **  Designed clean, readable, and well-documented code with proper error handling
 
+## Output:
 
+![Image](https://github.com/user-attachments/assets/e61612a0-5109-4465-8f2d-f71cd7b97e1a)
 
 
 
